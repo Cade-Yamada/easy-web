@@ -1,0 +1,12 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+ 
+.component-fragment {
+  display: contents;
+}
+ 
+.component-text2 {
+  display: inline-block;
+}
